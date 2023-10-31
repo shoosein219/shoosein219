@@ -1,8 +1,13 @@
 ### Hi there 👋
+
 👋 Hi, I’m Shabana Hoosein 🇺🇸
+
 🦠 I am a postdoc working on soil microbiome research at the Swiss Federation for Agricultural Research (Agroscope) in Zürich
+
 💬 Ask me about network analysis for microbiomes and neural networks for ML.
+
 🌱 I’m currently learning genome-resolved metagenomic bioinformatics for microbiome data analysis.
+
 📫 You can reach me by my email hoosein.shabana@gmail.com
 
 <!--
