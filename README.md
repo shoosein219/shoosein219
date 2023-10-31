@@ -1,8 +1,7 @@
-### Hi there 👋
 
 👋 Hi, I’m Shabana Hoosein 🇺🇸
 
-🦠 I am a postdoc working on soil microbiome research at the Swiss Federation for Agricultural Research (Agroscope) in Zürich
+🦠 I am a microbiome data scientist working as a postdoc on soil microbiome/synthetic microbial community research at the Swiss Federation for Agricultural Research (Agroscope) in Zürich
 
 💬 Ask me about network analysis for microbiomes and neural networks for ML.
 
