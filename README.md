@@ -5,7 +5,9 @@
 
 💬 Ask me about network analysis for microbiomes and neural networks for ML.
 
-🌱 I’m currently learning genome-resolved metagenomic bioinformatics for microbiome data analysis.
+🔭 I’m currently working on metatranscriptomics and genome-resolved metagenomic bioinformatics for microbiome data analysis.
+
+🌱 I’m currently learning more about NMR data analysis and how it can be incorporated into characterizing microbiome function.
 
 📫 You can reach me by my email hoosein.shabana@gmail.com
 
