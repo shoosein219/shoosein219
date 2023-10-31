@@ -1,5 +1,5 @@
 
-👋 Hi, I’m Shabana Hoosein 🇺🇸
+👋 Hi, I’m Shabana! 🇺🇸
 
 🦠 I am a microbiome data scientist working as a postdoc on soil microbiome/syn-comm research at the Swiss Federation for Agricultural Research (Agroscope) in Zürich
 
